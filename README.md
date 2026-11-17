@@ -3,7 +3,7 @@
 This repository holds the data and the analysis behind:
 
 > Ardhi, E.; Turan, O.; Kurt, R.; Arif, M.; Tornaci, F. *Human Factors in Traditional Wooden Ship Accidents: An
-> Empirical SHIELD Taxonomy Analysis of Indonesian Pelra Vessels.* Applied Sciences (under review).
+> Empirical SHIELD Taxonomy Analysis of Indonesian Pelra Vessels.* 
 
 One script, `analyse.py`, reads the data in `data/` and produces every number, table and data figure in the paper.
 Nothing is edited by hand.
